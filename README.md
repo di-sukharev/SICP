@@ -19,6 +19,7 @@
 
 ## Different solutions
 
+- <http://community.schemewiki.org/?SICP-Solutions>
 - <https://github.com/qiao/sicp-solutions>
 - <https://github.com/michiakig/sicp>
 - <https://github.com/ivanjovanovic/sicp>
