@@ -15,7 +15,7 @@
 [docs](https://wiki.call-cc.org/man/5/Using%20the%20interpreter)
 
 - run `brew install chicken`
-- you can run scheme scripts as `csi -s script.scm`
+- you can run scheme scripts as `csi -s script.scm` or if you want to pass arguments `csi -ss script.scm arg1 arg2` see `units/1/3/code.scm` example
 
 ## Different solutions
 
