@@ -8,7 +8,7 @@
 ## Lectures
 
 - Berkley (by Professor Brian Harvey): [youtube](https://www.youtube.com/playlist?list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9)
-- MIT (by Professor Gerald Sussman and Hal Abelson): [youtube 1986](https://www.youtube.com/playlist?list=PLE18841CABEA24090) [youtube 2004](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF)
+- MIT (by Professor Gerald Sussman and Hal Abelson): [youtube 1986](https://www.youtube.com/playlist?list=PLE18841CABEA24090), [youtube 2004](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF)
 
 ## Lisp language
 
