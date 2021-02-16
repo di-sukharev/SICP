@@ -12,8 +12,10 @@
 
 ## Scheme interpreter
 
+[docs](https://wiki.call-cc.org/man/5/Using%20the%20interpreter)
+
 - run `brew install chicken`
-- you can run scheme scripts as `csi script.scm`
+- you can run scheme scripts as `csi -s script.scm`
 
 ## Different solutions
 
