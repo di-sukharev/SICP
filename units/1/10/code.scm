@@ -1,0 +1,11 @@
+(define (Ack x y)
+   (print x " " y)
+   (cond ((= y 0) 0)
+         ((= x 0) (* 2 y))
+         ((= y 1) 2)
+         (else (Ack  (- x 1)
+                     (Ack x (- y 1))))))
+
+(define (main args)
+   (print (Ack (string->number (car args))
+               (string->number (cadr args)))))
