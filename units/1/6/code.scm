@@ -18,9 +18,9 @@
 
 (define (square x) (* x x))
 
-(define (new-if predicate consequent alternative)
-   (cond (predicate consequent)
-         (else alternative)))
+; (define (new-if predicate consequent alternative)
+;    (cond (predicate consequent)
+;          (else alternative)))
 
 (define (main args)
    (print args)
