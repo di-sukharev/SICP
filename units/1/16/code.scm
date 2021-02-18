@@ -1,6 +1,5 @@
 (define (power b n)
    (define (iter B N A) ; (iter B N A) = B^N * A
-      (print B " " N " " A)
       (cond ((= 0 N) A) 
             ((even? N) (iter (square B) (/ N 2) A)) 
             (else (iter B (- N 1) (* B A))))) 
