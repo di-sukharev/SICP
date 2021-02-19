@@ -30,11 +30,8 @@
    (start-prime-test n runtime))
 
 (define (search-for-primes from to)
-   (define (iter from to)
-      (if (<= from to)
-          ((timed-prime-test from) (iter (+ from 1) to))))
-
-   (iter from to))
+   (if (<= from to) ((timed-prime-test from)
+                     (search-for-primes (+ from 1) to))))
 
 
 (define (main args)
