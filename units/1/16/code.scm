@@ -9,4 +9,4 @@
 
 (define (main args)
    (print (power (string->number (car args))
-                     (string->number (cadr args)))))
+                 (string->number (cadr args)))))
